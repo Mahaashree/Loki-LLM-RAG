@@ -6,7 +6,7 @@ A streamlined document question-answering system using RAG (Retrieval-Augmented 
 
 1. **Clone the repository**
 ```bash
-git clone [https://github.com/Mahaashree/Loki-LLM-RAG.git](https://github.com/Mahaashree/Loki-LLM-RAG.git)
+git clone https://github.com/Mahaashree/Loki-LLM-RAG.git
 cd Loki-LLM-RAG
 ```
 
