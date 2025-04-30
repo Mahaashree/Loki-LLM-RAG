@@ -1,0 +1,15 @@
+langchain
+langchain-community
+openai
+python-dotenv
+pypdf
+docx2txt
+yt-dlp
+pydub
+unstructured
+xlrd
+tiktoken
+chromadb
+lark
+sentence-transformers
+together
